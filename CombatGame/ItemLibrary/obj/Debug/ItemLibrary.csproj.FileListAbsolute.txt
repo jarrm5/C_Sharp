@@ -1,0 +1,5 @@
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\ItemLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\ItemLibrary\bin\Debug\ItemLibrary.pdb
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\ItemLibrary\obj\Debug\ItemLibrary.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\ItemLibrary\obj\Debug\ItemLibrary.dll
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\ItemLibrary\obj\Debug\ItemLibrary.pdb

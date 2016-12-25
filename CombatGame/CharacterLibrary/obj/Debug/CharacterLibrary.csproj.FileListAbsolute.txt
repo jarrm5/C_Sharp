@@ -1,0 +1,7 @@
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\obj\Debug\CharacterLibrary.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\bin\Debug\CharacterLibrary.dll
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\bin\Debug\CharacterLibrary.pdb
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\obj\Debug\CharacterLibrary.dll
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\obj\Debug\CharacterLibrary.pdb
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\bin\Debug\ItemLibrary.dll
+C:\Users\James\Desktop\CSharp4Dummies\MyPrograms\CombatGame\CharacterLibrary\bin\Debug\ItemLibrary.pdb

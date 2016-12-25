@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatGame", "CombatGame\CombatGame.csproj", "{CA97A7ED-A570-441C-BF29-C0063F413333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterLibrary", "CharacterLibrary\CharacterLibrary.csproj", "{5AA1120B-FBFC-4620-BF14-481A86C0232C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemLibrary", "ItemLibrary\ItemLibrary.csproj", "{3679DBFB-01C3-48B0-A5A0-A73F94D39D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA97A7ED-A570-441C-BF29-C0063F413333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA97A7ED-A570-441C-BF29-C0063F413333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA97A7ED-A570-441C-BF29-C0063F413333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA97A7ED-A570-441C-BF29-C0063F413333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA1120B-FBFC-4620-BF14-481A86C0232C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA1120B-FBFC-4620-BF14-481A86C0232C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA1120B-FBFC-4620-BF14-481A86C0232C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA1120B-FBFC-4620-BF14-481A86C0232C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3679DBFB-01C3-48B0-A5A0-A73F94D39D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3679DBFB-01C3-48B0-A5A0-A73F94D39D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3679DBFB-01C3-48B0-A5A0-A73F94D39D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3679DBFB-01C3-48B0-A5A0-A73F94D39D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
